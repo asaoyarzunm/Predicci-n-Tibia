@@ -1,0 +1,5 @@
+{
+  "name": "NailPredict AI",
+  "description": "Herramienta de predicción de tamaño de clavo endomedular basada en talla del paciente.",
+  "requestFramePermissions": []
+}
